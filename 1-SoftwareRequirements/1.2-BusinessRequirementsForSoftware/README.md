@@ -2,6 +2,6 @@
 |                | температура навколишнього середовища     | особиста безпека    | зацікавленість літературоною поезією      | Тип ліцензії |
 | ---------------| ----------------------------------------- | ----------------- | ---------- | ------------ |
 | Продукт / Пошукові фрази | температура середовища | особиста безпека | зацікавленість літературною поезією | - |
-| Термогігрометр BEURER HM 16 - https://bt.rozetka.com.ua/beurer_hm_16/p288597/ | 4 | - | - | OpenSource |
-| Комплект охоронної сигналізації Ajax StarterKit Cam Plus Чорний (000019876) - https://rozetka.com.ua/ajax-000019876/p318371605/ | - | 5 | - | OpenSource |
-| Теорія літератури - Олександр Галич - 2001 - https://ukrlit.net/info/theory/33.html | - | - | 4 | OpenSource |
+| Temperature-analysis-software - https://www.pcne.eu/article/temperature-analysis-software/ | 4 | - | - | OpenSource |
+| Tenable - https://www.tenable.com/lp/campaigns/23/tenable-cloud-security/?utm_campaign=gs-%7B17232829325%7D-%7B135323757006%7D-%7B659546704762%7D_00026634_fy23&utm_promoter=tenable-ent-00026634&utm_source=google&utm_term=security%20platform&utm_medium=cpc&utm_geo=emea&gclid=CjwKCAjwsKqoBhBPEiwALrrqiK-7ebLn_zObClnD1snN0_-igxh6qZ8GwvjhqHa34lAk2JMot28KfhoCOaoQAvD_BwE | - | 3 | - | OpenSource |
+| Editor - https://www.zoho.com/writer/desktop-app.html | - | - | 4 | OpenSource |
