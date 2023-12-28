@@ -9,7 +9,7 @@
 			{
 				"active": true,
 				"count": 2,
-				"price": 759.98,
+				"price": 800,
 				"product": [
 					{
 						"name": "Meter",
@@ -19,7 +19,7 @@
 					{
 						"name": "Meter",
 						"manufacturer": "Netatmo",
-						"price": 259.99
+						"price": 299.99
 					}
 				]
 			}
